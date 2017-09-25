@@ -1,0 +1,7 @@
+.ng-scope {
+    display: flex;
+    justify-content: center;
+}
+ .ng-scope img {
+     width: 250px;
+ }
